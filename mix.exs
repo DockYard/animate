@@ -1,7 +1,7 @@
 defmodule Animate.MixProject do
   use Mix.Project
 
-  @version "0.1.0"
+  @version "0.0.1"
   @scm_url "https://github.com/dockyard/animate"
 
   def project do
