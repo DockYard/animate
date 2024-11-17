@@ -49,8 +49,7 @@ defmodule Animate.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      # {:easing, "~> 0.3.1"},
-      {:easing, path: "../easing"},
+      {:easing, "~> 0.3.1"},
       {:scenic, "~> 0.11.0-beta.0"},
       {:ex_doc, ">= 0.0.0", only: :dev, runtime: false}
       # {:dep_from_hexpm, "~> 0.3.0"},
